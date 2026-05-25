@@ -1,0 +1,17 @@
+{
+  "name": "okaras/php-analytics-task",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "o.karas",
+      "email": "al.karas.pr@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.1"
+  }
+}
