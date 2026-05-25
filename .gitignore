@@ -1,3 +1,4 @@
 /vendor/
 /logs/*.log
 report.txt
+!/logs/.gitkeep
